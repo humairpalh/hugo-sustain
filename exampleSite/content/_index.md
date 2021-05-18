@@ -1,19 +1,12 @@
 ---
+
 ---
+Hey👋, I am **Humair Ali**, a Software QA Engineer.
 
-I'm **Chris Turner**, a Software Engineer.
+I love all things computer science and QA.
 
-I love all things computer science and maths.
+Have a look at some of my working [projects](/projects).
 
-Have a look at some of my working [projects].
+For more check out my academic & professional [resume](https://demo.nurlan.co/hugo-vitae/).
 
-For more check out my academic & professional [resume].
-
-Contact me at [@username] or by [email].
-
-
-
-[projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
-[@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+Contact me at [@LinkedIn](https://twitter.com/username) or by [email](mailto:email@example.com).
